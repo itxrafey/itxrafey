@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me
 
-I'm **Abdul Rafey**, a Computer Science student at the **University of Gujrat, Pakistan** 🇵🇰. 
+<h1>I'm **Abdul Rafey**,</h1> <h2>A Computer Science student at the **University of Gujrat, Pakistan** 🇵🇰.</h2> 
 
 - 🤖 **AI Enthusiast:** Deeply passionate about Artificial Intelligence and machine learning.
 - 🐍 **Current Focus:** Sharpening my Python skills to build intelligent AI systems.
